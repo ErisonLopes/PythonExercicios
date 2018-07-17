@@ -1,0 +1,13 @@
+algo = input('Digite algo: ')
+
+print('isalnum: ',algo.isalnum())
+print('isalpha: ',algo.isalpha())
+print('isdecimal: ',algo.isdecimal())
+print('isdigit: ',algo.isdigit())
+print('isidentifier: ',algo.isidentifier())
+print('islower: ',algo.islower())
+print('isnumeric: ',algo.isnumeric())
+print('isprintable: ',algo.isprintable())
+print('isspace: ',algo.isspace())
+print('istitle: ',algo.istitle())
+print('isupper: ',algo.isupper())
